@@ -1,0 +1,9 @@
+C:\Users\Cuong\Desktop\gomoku-project\gomoku-project\obj\Debug\gomoku-project.csprojResolveAssemblyReference.cache
+C:\Users\Cuong\Desktop\gomoku-project\gomoku-project\obj\Debug\gomoku_project.Gomoku.resources
+C:\Users\Cuong\Desktop\gomoku-project\gomoku-project\obj\Debug\gomoku_project.Properties.Resources.resources
+C:\Users\Cuong\Desktop\gomoku-project\gomoku-project\obj\Debug\gomoku-project.csproj.GenerateResource.Cache
+C:\Users\Cuong\Desktop\gomoku-project\gomoku-project\bin\Debug\gomoku-project.exe.config
+C:\Users\Cuong\Desktop\gomoku-project\gomoku-project\bin\Debug\gomoku-project.exe
+C:\Users\Cuong\Desktop\gomoku-project\gomoku-project\bin\Debug\gomoku-project.pdb
+C:\Users\Cuong\Desktop\gomoku-project\gomoku-project\obj\Debug\gomoku-project.exe
+C:\Users\Cuong\Desktop\gomoku-project\gomoku-project\obj\Debug\gomoku-project.pdb
